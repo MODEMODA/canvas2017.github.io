@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: MODEMODA
+description:  El mundo de la moda
 permalink: ':title/'
 baseurl: "/" 
-url: "https://canvas2017.github.io" 
+url: "https://modemoda.github.io" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: MODEMODA
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author: Aprenderás a crear conjuntos y a combinarlos con diversos accesorios de temporada para hacer grandes outfits.
 social-twitter: 
 social-facebook: 
 social-github: 
