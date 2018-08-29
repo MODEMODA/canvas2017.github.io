@@ -2,7 +2,7 @@
 layout: post
 title: SOBRE LA MODA
 date: 2018-08-29
-description: Las etiquetas de HTML básicas
+description: HISTORIA
 img: html-img.jpg 
 fig-caption: 
 tags: [Ropa, Accesorios]
