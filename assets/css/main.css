@@ -992,7 +992,7 @@ table tfoot td {
   height: 7px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
-  background-color:  #ff784f;
+  background-color:  ##ef70e0;
 }
 
 .about p {
@@ -1202,7 +1202,7 @@ footer .copyright {
 .post .post-content .post-date,
 .post .post-content .post-words {
   font-size: 12px;
-   color: #ff784f;
+   color: #ef70e0;
 }
 
 .post .post-content .post-title {
