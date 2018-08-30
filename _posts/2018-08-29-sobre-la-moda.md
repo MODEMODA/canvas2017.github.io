@@ -3,7 +3,7 @@ layout: post
 title: SOBRE LA MODA
 date: 2018-08-29
 description: HISTORIA
-img: post1.png
+img: post1.jpg
 fig-caption: 
 tags: [Ropa, Accesorios]
 ---
